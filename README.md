@@ -57,4 +57,6 @@ Moroccan Vehicle Price Prediction is a data-driven project designed to predict v
  - El Guelta Mohamed-Saber
 
 ## 📧 Contact
-For questions or suggestions, feel free to reach out: elhadifi.soukaina@gmail.com
+For questions or suggestions, feel free to reach out: <br>
+- elhadifi.soukaina@gmail.com <br>
+- medsaberelguelta@gmail.com <br>

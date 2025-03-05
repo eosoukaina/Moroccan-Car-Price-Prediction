@@ -53,10 +53,8 @@ Moroccan Vehicle Price Prediction is a data-driven project designed to predict v
 ---
 
 ## 👥 Contributors
- - Soukaina El Hadifi 
+ - El Hadifi Soukaina
+ - El Guelta Mohamed-Saber
 
 ## 📧 Contact
-For questions or suggestions, feel free to reach out:
-
- - Name: El Hadifi Soukaina
- - Email: elhadifi.soukaina@gmail.com
+For questions or suggestions, feel free to reach out: elhadifi.soukaina@gmail.com
